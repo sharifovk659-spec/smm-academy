@@ -2,7 +2,7 @@
 
 import { useEffect, useRef } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Navigation, EffectCoverflow } from "swiper/modules";
+import { Navigation, EffectCoverflow, Autoplay, Pagination } from "swiper/modules";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { FiClock } from "react-icons/fi";
@@ -12,6 +12,7 @@ import { useSiteConfig } from "@/context/SiteConfigContext";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/effect-coverflow";
+import "swiper/css/pagination";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -47,11 +48,18 @@ export function CourseProgramSlider() {
         />
 
         <Swiper
-          modules={[Navigation, EffectCoverflow]}
+          modules={[Navigation, EffectCoverflow, Autoplay, Pagination]}
           effect="coverflow"
           grabCursor
           centeredSlides
+          loop
           slidesPerView={1.15}
+          autoplay={{
+            delay: 4000,
+            disableOnInteraction: false,
+            pauseOnMouseEnter: true,
+          }}
+          pagination={{ clickable: true }}
           coverflowEffect={{
             rotate: 0,
             stretch: 0,

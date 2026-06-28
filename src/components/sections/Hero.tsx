@@ -17,6 +17,18 @@ const SOCIAL_ORBIT = [
   "bottom-[12%] right-[-8%] sm:right-[-14%]",
 ];
 
+function renderHeroTitle(title: string) {
+  const match = title.match(/^(.*?)(SMM-ро)$/i);
+  if (!match) return title;
+
+  return (
+    <>
+      {match[1]}
+      <span className="whitespace-nowrap">{match[2]}</span>
+    </>
+  );
+}
+
 export function Hero() {
   const siteConfig = useSiteConfig();
   const heroRef = useRef<HTMLDivElement>(null);
@@ -140,9 +152,8 @@ export function Hero() {
         <div className="hero-fade-up w-full">
           <p className="hero-role-label font-display">{hero.trainer.role}</p>
           <h1 className="hero-display-title font-display text-white">
-            {hero.title}
-            <br />
-            <span className="gradient-text-cyan">{hero.titleHighlight}</span>
+            <span className="block">{renderHeroTitle(hero.title)}</span>
+            <span className="gradient-text-cyan block">{hero.titleHighlight}</span>
           </h1>
         </div>
 
@@ -172,7 +183,7 @@ export function Hero() {
               src={hero.trainer.image}
               alt={hero.trainer.name}
               fill
-              className="object-cover object-top fill-img"
+              className="object-cover object-center fill-img"
               priority
               sizes="(max-width: 640px) 360px, 460px"
             />
