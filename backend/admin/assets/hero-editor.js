@@ -26,7 +26,7 @@
   }
 
   function updatePreview() {
-    const logoText = val('logo_text') || 'SMM Academy';
+    const logoText = val('logo_text') || 'PRO SMM';
     const logoImg = imageUrl('logo');
     if (el.logo) {
       el.logo.innerHTML = logoImg

@@ -1,4 +1,4 @@
-# SMM Academy — PHP Admin Panel
+# PRO SMM — PHP Admin Panel
 
 Админ панел барои идоракунии контенти лендинг.
 

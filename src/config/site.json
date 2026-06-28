@@ -4,7 +4,7 @@
         "button": "Ҳозир сабти ном кунед",
         "subtitle": "Танҳо 20 ҷой бо нархи ҷорӣ боқӣ мондааст. Имрӯз сабти ном кунед ё бо мо тамос гиред.",
         "telegram": {
-            "href": "https:\/\/t.me\/smm_academy",
+            "href": "https:\/\/t.me\/pro_smm",
             "label": "Telegram"
         },
         "whatsapp": {
@@ -43,7 +43,7 @@
     },
     "hero": {
         "logo": "",
-        "logoText": "SMM Academy",
+        "logoText": "PRO SMM",
         "badges": [
             "🔥 Навбат — 15-20 март 2026"
         ],
@@ -64,12 +64,12 @@
         "subtitle": "Курси пурраи маркетинги иҷтимоӣ барои Instagram, TikTok, Facebook ва LinkedIn. Аз стратегияи контент то рекламаи ҳадафнок.",
         "socialIcons": [
             {
-                "href": "https:\/\/instagram.com\/smm_academy",
+                "href": "https:\/\/instagram.com\/pro_smm",
                 "icon": "FaInstagram",
                 "color": "#E4405F"
             },
             {
-                "href": "https:\/\/t.me\/smm_academy",
+                "href": "https:\/\/t.me\/pro_smm",
                 "icon": "FaTelegram",
                 "color": "#26A5E4"
             },
@@ -79,7 +79,7 @@
                 "color": "#25D366"
             },
             {
-                "href": "https:\/\/instagram.com\/smm_academy",
+                "href": "https:\/\/instagram.com\/pro_smm",
                 "icon": "FaReels",
                 "color": "#C13584"
             }
@@ -88,8 +88,8 @@
     },
     "site": {
         "url": "https:\/\/smm-academy-ten.vercel.app",
-        "name": "SMM Academy",
-        "title": "Курси SMM — Social Media Marketing",
+        "name": "PRO SMM",
+        "title": "Курси PRO SMM — Social Media Marketing",
         "locale": "tg_TJ",
         "keywords": [
             "SMM",
@@ -196,16 +196,16 @@
                     "label": "Саволҳо"
                 },
                 {
-                    "href": "https:\/\/t.me\/smm_academy",
+                    "href": "https:\/\/t.me\/pro_smm",
                     "label": "Telegram"
                 },
                 {
-                    "href": "https:\/\/instagram.com\/smm_academy",
+                    "href": "https:\/\/instagram.com\/pro_smm",
                     "label": "Instagram"
                 }
             ]
         },
-        "copyright": "© 2026 SMM Academy. Ҳамаи ҳуқуқҳо ҳифз шудаанд.",
+        "copyright": "© 2026 PRO SMM. Ҳамаи ҳуқуқҳо ҳифз шудаанд.",
         "description": "Курси касбии маркетинги иҷтимоӣ барои оғозкунандагон ва мутахассисон."
     },
     "forWhom": {

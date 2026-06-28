@@ -1,4 +1,4 @@
-# SMM Academy — Premium Landing Page
+# PRO SMM — Premium Landing Page
 
 Премиум лендинг барои курси Social Media Marketing (SMM).
 

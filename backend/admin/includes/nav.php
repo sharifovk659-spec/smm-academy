@@ -46,7 +46,7 @@ function adminSiteName(): string
     if ($name !== null) {
         return $name;
     }
-    $name = 'SMM Academy';
+    $name = 'PRO SMM';
     try {
         if (!class_exists('ContentRepository')) {
             require_once __DIR__ . '/../../includes/ContentRepository.php';
