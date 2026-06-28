@@ -13,3 +13,4 @@ extracted/
 # PHP backend runtime (deploy separately if needed)
 backend/database/*.sqlite
 backend/database/*.db
+.vercel

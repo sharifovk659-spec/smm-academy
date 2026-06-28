@@ -64,22 +64,22 @@
         "subtitle": "Курси пурраи маркетинги иҷтимоӣ барои Instagram, TikTok, Facebook ва LinkedIn. Аз стратегияи контент то рекламаи ҳадафнок.",
         "socialIcons": [
             {
-                "href": "#",
+                "href": "https:\/\/instagram.com\/smm_academy",
                 "icon": "FaInstagram",
                 "color": "#E4405F"
             },
             {
-                "href": "#",
+                "href": "https:\/\/t.me\/smm_academy",
                 "icon": "FaTelegram",
                 "color": "#26A5E4"
             },
             {
-                "href": "#",
+                "href": "https:\/\/wa.me\/992901234567",
                 "icon": "FaWhatsapp",
                 "color": "#25D366"
             },
             {
-                "href": "#",
+                "href": "https:\/\/instagram.com\/smm_academy",
                 "icon": "FaReels",
                 "color": "#C13584"
             }
@@ -87,7 +87,7 @@
         "titleHighlight": "аз сифр омӯзед"
     },
     "site": {
-        "url": "https:\/\/smm-academy.tj",
+        "url": "https:\/\/smm-academy-ten.vercel.app",
         "name": "SMM Academy",
         "title": "Курси SMM — Social Media Marketing",
         "locale": "tg_TJ",
@@ -178,11 +178,11 @@
         "links": {
             "course": [
                 {
-                    "href": "#modules",
+                    "href": "#course-program",
                     "label": "Модулҳо"
                 },
                 {
-                    "href": "#instructors",
+                    "href": "#what-you-learn",
                     "label": "Муаллифон"
                 },
                 {
@@ -196,11 +196,11 @@
                     "label": "Саволҳо"
                 },
                 {
-                    "href": "#",
+                    "href": "https:\/\/t.me\/smm_academy",
                     "label": "Telegram"
                 },
                 {
-                    "href": "#",
+                    "href": "https:\/\/instagram.com\/smm_academy",
                     "label": "Instagram"
                 }
             ]

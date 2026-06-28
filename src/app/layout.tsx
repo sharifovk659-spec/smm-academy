@@ -9,6 +9,7 @@ import { FloatingObjects } from "@/components/ui/FloatingObjects";
 import { SiteConfigProvider } from "@/context/SiteConfigContext";
 import siteConfig from "@/config/site.json";
 import { resolveImageSrc } from "@/lib/media";
+import { getSiteUrl } from "@/lib/site-url";
 
 const ogImage = resolveImageSrc(siteConfig.hero.image);
 
@@ -36,6 +37,7 @@ export const viewport = {
 };
 
 export const metadata: Metadata = {
+  metadataBase: new URL(getSiteUrl()),
   title: {
     default: siteConfig.site.title,
     template: `%s | ${siteConfig.site.name}`,
@@ -46,7 +48,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: siteConfig.site.title,
     description: siteConfig.site.description,
-    url: siteConfig.site.url,
+    url: getSiteUrl(),
     siteName: siteConfig.site.name,
     locale: siteConfig.site.locale,
     type: "website",
