@@ -1,0 +1,872 @@
+{
+    "cta": {
+        "title": "Омодаед касби",
+        "button": "Ҳозир сабти ном кунед",
+        "subtitle": "Танҳо 20 ҷой бо нархи ҷорӣ боқӣ мондааст. Имрӯз сабти ном кунед ё бо мо тамос гиред.",
+        "telegram": {
+            "href": "https:\/\/t.me\/smm_academy",
+            "label": "Telegram"
+        },
+        "whatsapp": {
+            "href": "https:\/\/wa.me\/992901234567",
+            "label": "WhatsApp"
+        },
+        "guarantee": "✓ 14 рӯз кафолати баргардонидани пул",
+        "titleHighlight": "оилаи худро тағйир диҳед?"
+    },
+    "faq": {
+        "badge": "Саволҳо",
+        "items": [
+            {
+                "answer": "Не. Курс аз сифр оғоз мешавад. Танҳо шавқ ва вақт лозим аст.",
+                "question": "Оё ба таҷриба ниёз дорам?"
+            },
+            {
+                "answer": "2-3 соат дар як рӯз кофӣ аст. Шумо метавонед ба суръати худ омӯзед.",
+                "question": "Чанд вақт дар як рӯз сарф мекунам?"
+            },
+            {
+                "answer": "Бале, пас аз гузаронидани лоиҳаи ниҳоӣ сертификати SMM Specialist мегиред.",
+                "question": "Оё сертификат дода мешавад?"
+            },
+            {
+                "answer": "Пардохт тавассути бонк, карта ё нақд имконпазир аст. Қисм-қисм низ мумкин аст.",
+                "question": "Чӣ гуна пардохт кунам?"
+            },
+            {
+                "answer": "Бале, дастрасӣ ба гурӯҳи Telegram ва ҷамъияти донишҷӯён то 12 моҳ.",
+                "question": "Оё пас аз курс дастгирӣ мешавам?"
+            }
+        ],
+        "title": "Саволҳои",
+        "titleHighlight": "зиёд такроршаванда"
+    },
+    "hero": {
+        "logo": "",
+        "logoText": "SMM Academy",
+        "badges": [
+            "🔥 Навбат — 15-20 март 2026"
+        ],
+        "cta": {
+            "primary": "Сабти ном",
+            "primaryLink": "#pricing",
+            "secondary": "Барномаи курс",
+            "secondaryLink": "#course-program"
+        },
+        "badge": "🔥 Навбат — 15-20 март 2026",
+        "image": "https:\/\/images.unsplash.com\/photo-1611162617474-5b21e039e967?w=800&q=80",
+        "title": "Касби SMM-ро",
+        "trainer": {
+            "name": "Фарҳод Раҳимов",
+            "role": "SMM Director & Mentor",
+            "image": "https:\/\/images.unsplash.com\/photo-1560250097-0b93528c311a?w=600&q=80"
+        },
+        "subtitle": "Курси пурраи маркетинги иҷтимоӣ барои Instagram, TikTok, Facebook ва LinkedIn. Аз стратегияи контент то рекламаи ҳадафнок.",
+        "socialIcons": [
+            {
+                "href": "#",
+                "icon": "FaInstagram",
+                "color": "#E4405F"
+            },
+            {
+                "href": "#",
+                "icon": "FaTelegram",
+                "color": "#26A5E4"
+            },
+            {
+                "href": "#",
+                "icon": "FaWhatsapp",
+                "color": "#25D366"
+            },
+            {
+                "href": "#",
+                "icon": "FaReels",
+                "color": "#C13584"
+            }
+        ],
+        "titleHighlight": "аз сифр омӯзед"
+    },
+    "site": {
+        "url": "https:\/\/smm-academy.tj",
+        "name": "SMM Academy",
+        "title": "Курси SMM — Social Media Marketing",
+        "locale": "tg_TJ",
+        "keywords": [
+            "SMM",
+            "маркетинг",
+            "Instagram",
+            "TikTok",
+            "курс",
+            "Тоҷикистон",
+            "social media"
+        ],
+        "description": "Курси касбии маркетинги иҷтимоӣ. Instagram, TikTok, Facebook ва стратегияи контентро аз сифр то касб омӯзед.11111"
+    },
+    "layout": {
+        "scrollLabel": "Scroll",
+        "navCta": "Сабти ном",
+        "navCtaLink": "#pricing",
+        "modulePrefix": "Модул",
+        "resultLabel": "Натиҷа",
+        "beforeLabel": "Пеш",
+        "afterLabel": "Баъд",
+        "videoReviewCategory": "Video Review"
+    },
+    "pageSections": {
+        "hero": {
+            "enabled": true,
+            "order": 1
+        },
+        "whatYouLearn": {
+            "enabled": true,
+            "order": 2
+        },
+        "forWhom": {
+            "enabled": true,
+            "order": 3
+        },
+        "courseProgram": {
+            "enabled": true,
+            "order": 4
+        },
+        "learningPath": {
+            "enabled": true,
+            "order": 5
+        },
+        "studentResults": {
+            "enabled": true,
+            "order": 6
+        },
+        "videoReviews": {
+            "enabled": true,
+            "order": 7
+        },
+        "pricing": {
+            "enabled": true,
+            "order": 8
+        },
+        "faq": {
+            "enabled": true,
+            "order": 9
+        },
+        "cta": {
+            "enabled": true,
+            "order": 10
+        },
+        "results": {
+            "enabled": false,
+            "order": 11
+        }
+    },
+    "about": {
+        "badge": "Дар бораи курс",
+        "image": "https:\/\/images.unsplash.com\/photo-1552664730-d307ca884978?w=900&q=80",
+        "title": "Чаро ин курс",
+        "imageAlt": "Донишҷӯён дар курси SMM",
+        "highlights": [
+            "Стратегияи маркетингӣ барои ҳар платформа",
+            "Контент, Reels, TikTok ва рекламаи ҳадафнок",
+            "Монетизатсия: фриланс, агентство, бренд",
+            "Сертификати расмии SMM Specialist"
+        ],
+        "paragraphs": [
+            "Ин курс на танҳо назария, балки амалиёт аст. Шумо ҳар ҳафта лоиҳаҳои воқеӣ месозед, фидбек мегиред ва портфолиои касбӣ тайёр мекунед.\r\n\r\nБо 12 модули амалӣ, менторинги шахсӣ ва дастгирии доимӣ, шумо дар 3 моҳ ба SMM Specialist-и касбӣ табдил мешавед."
+        ],
+        "titleHighlight": "фарқ мекунад?"
+    },
+    "footer": {
+        "links": {
+            "course": [
+                {
+                    "href": "#modules",
+                    "label": "Модулҳо"
+                },
+                {
+                    "href": "#instructors",
+                    "label": "Муаллифон"
+                },
+                {
+                    "href": "#pricing",
+                    "label": "Нарх"
+                }
+            ],
+            "support": [
+                {
+                    "href": "#faq",
+                    "label": "Саволҳо"
+                },
+                {
+                    "href": "#",
+                    "label": "Telegram"
+                },
+                {
+                    "href": "#",
+                    "label": "Instagram"
+                }
+            ]
+        },
+        "copyright": "© 2026 SMM Academy. Ҳамаи ҳуқуқҳо ҳифз шудаанд.",
+        "description": "Курси касбии маркетинги иҷтимоӣ барои оғозкунандагон ва мутахассисон."
+    },
+    "forWhom": {
+        "badge": "Барои кӣ",
+        "items": [
+            {
+                "tag": "Сифр",
+                "icon": "FiUser",
+                "title": "Новичок",
+                "description": "Аз сифр оғоз кунед. Бе таҷриба, бе дониш — ҳамаашро аз асос омӯзед."
+            },
+            {
+                "tag": "Контент",
+                "icon": "FiCamera",
+                "title": "Блогер",
+                "description": "Фолловер зиёд кунед, контенти вирусӣ созед ва бренди шахсии худро созед."
+            },
+            {
+                "tag": "Бизнес",
+                "icon": "FiBriefcase",
+                "title": "Предприниматель",
+                "description": "Instagram-и бизнесро ба асбоби фурӯш табдил диҳед. ROI ва муштарии нав."
+            },
+            {
+                "tag": "Касб",
+                "icon": "FiMonitor",
+                "title": "SMM Специалист",
+                "description": "Малакаҳои касбиро такмил диҳед, портфолио созед ва даромади баланд гиред."
+            }
+        ],
+        "title": "Ин курс",
+        "titleHighlight": "барои шумо?"
+    },
+    "modules": {
+        "badge": "Барномаи курс",
+        "items": [
+            {
+                "title": "Асосҳои SMM",
+                "number": "01",
+                "topics": [
+                    "Аналитика",
+                    "Аудитория",
+                    "Брендинг"
+                ],
+                "duration": "1 ҳафта",
+                "description": "Платформаҳо, аудитория, психологияи корбар"
+            },
+            {
+                "title": "Instagram Marketing",
+                "number": "02",
+                "topics": [
+                    "Reels",
+                    "Stories",
+                    "Алгоритм"
+                ],
+                "duration": "2 ҳафта",
+                "description": "Reels, Stories, алгоритм ва рост кардани фолловер"
+            },
+            {
+                "title": "TikTok & Short Video",
+                "number": "03",
+                "topics": [
+                    "Трендҳо",
+                    "Hook",
+                    "Вирусӣ"
+                ],
+                "duration": "2 ҳафта",
+                "description": "Вирусӣ шудан, трендҳо ва контенти кӯтоҳ"
+            },
+            {
+                "title": "Facebook & Meta Ads",
+                "number": "04",
+                "topics": [
+                    "Ads Manager",
+                    "Pixel",
+                    "Ретаргетинг"
+                ],
+                "duration": "2 ҳафта",
+                "description": "Рекламаи ҳадафнок, Pixel ва ретаргетинг"
+            },
+            {
+                "title": "Контент-стратегия",
+                "number": "05",
+                "topics": [
+                    "Контент-план",
+                    "Canva",
+                    "Копирайтинг"
+                ],
+                "duration": "1 ҳафта",
+                "description": "Контент-план, визуал, копирайтинг"
+            },
+            {
+                "title": "Аналитика & ROI",
+                "number": "06",
+                "topics": [
+                    "KPI",
+                    "ROI",
+                    "Гузориш"
+                ],
+                "duration": "1 ҳафта",
+                "description": "Метрикаҳо, гузоришҳо ва баҳодиҳии натиҷа"
+            },
+            {
+                "title": "Фриланс & Агентство",
+                "number": "07",
+                "topics": [
+                    "Портфолио",
+                    "Нарх",
+                    "Муштарӣ"
+                ],
+                "duration": "2 ҳафта",
+                "description": "Гирифтани муштарӣ, нархгузорӣ ва портфолио"
+            },
+            {
+                "title": "Лоиҳаи ниҳоӣ",
+                "number": "08",
+                "topics": [
+                    "Лоиҳа",
+                    "Презентатсия",
+                    "Сертификат"
+                ],
+                "duration": "2 ҳафта",
+                "description": "Лоиҳаи воқеӣ барои бренди ҳақиқӣ"
+            }
+        ],
+        "title": "12 модул",
+        "titleHighlight": "аз сифр то касб"
+    },
+    "pricing": {
+        "badge": "Тарифҳо",
+        "plans": [
+            {
+                "cta": "Сабти ном",
+                "name": "Standard",
+                "tier": "standard",
+                "price": "890",
+                "period": "якбора",
+                "currency": "сомонӣ",
+                "features": [
+                    "6 модул ва видеоҳо",
+                    "Дастрасӣ 6 моҳ",
+                    "Гурӯҳи Telegram",
+                    "Сертификат"
+                ],
+                "description": "Барои оғозкунандагон"
+            },
+            {
+                "cta": "Сабти ном мархам",
+                "name": "Pro",
+                "tier": "pro",
+                "price": "1,490",
+                "period": "якбора",
+                "currency": "сомонӣ",
+                "features": [
+                    "Ҳамаи модулҳо",
+                    "Дастрасӣ 12 моҳ",
+                    "4 сессияи 1-on-1",
+                    "Фидбеки лоиҳа",
+                    "Сертификат + портфолио"
+                ],
+                "description": "Бо фидбеки шахсӣ"
+            },
+            {
+                "cta": "Сабти ном — VIP",
+                "name": "VIP",
+                "tier": "vip",
+                "price": "2,990",
+                "period": "якбора",
+                "currency": "сомонӣ",
+                "features": [
+                    "Ҳамаи имкониятҳои Pro",
+                    "8 сессияи шахсӣ",
+                    "Менторинги доимӣ",
+                    "Лоиҳаи VIP барои бренд",
+                    "Дастрасии доимӣ",
+                    "Пешниҳод ба агентство"
+                ],
+                "description": "Пурра бо менторинг"
+            }
+        ],
+        "title": "Интихоб кунед",
+        "titleHighlight": "тарифи худро"
+    },
+    "navigation": [
+        {
+            "href": "#hero",
+            "label": "Асосӣ"
+        },
+        {
+            "href": "#what-you-learn",
+            "label": "Омӯзиш"
+        },
+        {
+            "href": "#for-whom",
+            "label": "Барои кӣ"
+        },
+        {
+            "href": "#course-program",
+            "label": "Барнома"
+        },
+        {
+            "href": "#learning-path",
+            "label": "Роҳ"
+        },
+        {
+            "href": "#student-results",
+            "label": "Натиҷаҳо"
+        },
+        {
+            "href": "#video-reviews",
+            "label": "Видео"
+        },
+        {
+            "href": "#pricing",
+            "label": "Тарифҳо"
+        },
+        {
+            "href": "#faq",
+            "label": "Саволҳо"
+        }
+    ],
+    "statistics": {
+        "items": [
+            {
+                "icon": "FiUsers",
+                "label": "Донишҷӯён",
+                "value": "500+",
+                "counter": {
+                    "end": 500,
+                    "suffix": "+"
+                },
+                "description": "Донишҷёни бомуваффақият"
+            },
+            {
+                "icon": "FiTrendingUp",
+                "label": "Фолловер",
+                "value": "48.2K+",
+                "counter": {
+                    "end": 48.1,
+                    "suffix": "K+",
+                    "decimals": 2
+                },
+                "description": "Афзоиши органикӣ"
+            },
+            {
+                "icon": "FiLayers",
+                "label": "Лоиҳаҳо",
+                "value": "795+",
+                "counter": {
+                    "end": 795,
+                    "suffix": "+"
+                },
+                "description": "Лоиҳаҳои амалии анҷомшуда"
+            },
+            {
+                "icon": "FiAward",
+                "label": "Қаноатмандӣ",
+                "value": "100%",
+                "counter": {
+                    "end": 100,
+                    "suffix": "%"
+                },
+                "description": "Бозгашти донишҷӯён"
+            }
+        ]
+    },
+    "videoCases": {
+        "badge": "Видео кейсҳо",
+        "items": [
+            {
+                "title": "Reels — 2M views",
+                "category": "Reels",
+                "videoUrl": "dQw4w9WgXcQ",
+                "thumbnail": "https:\/\/images.unsplash.com\/photo-1611162616305-c69b3fa7fbe0?w=600&q=80",
+                "videoType": "youtube",
+                "description": "Чӣ тавр Reels-и як донишҷӯ 2 миллион боздид гирифт"
+            },
+            {
+                "title": "Кейс — Мағоза +500%",
+                "category": "Кейс",
+                "videoUrl": "jNQXAC9IVRw",
+                "thumbnail": "https:\/\/images.unsplash.com\/photo-1460925895917-afdab827c52f?w=600&q=80",
+                "videoType": "youtube",
+                "description": "Афзоиши фурӯш тавассути Instagram Marketing"
+            },
+            {
+                "title": "Instagram — 0 to 50K",
+                "category": "Instagram",
+                "videoUrl": "M7lc1UVf-VE",
+                "thumbnail": "https:\/\/images.unsplash.com\/photo-1611262588024-d12430b98920?w=600&q=80",
+                "videoType": "youtube",
+                "description": "Рост кардани профил аз сифр то 50,000 фолловер"
+            },
+            {
+                "title": "Reels — Hook Formula",
+                "category": "Reels",
+                "videoUrl": "ScMzIvxBSi4",
+                "thumbnail": "https:\/\/images.unsplash.com\/photo-1522202176988-66273c2fd55f?w=600&q=80",
+                "videoType": "youtube",
+                "description": "Формулаи Hook барои 100K+ views"
+            },
+            {
+                "title": "Кейс — SMM Agency",
+                "category": "Кейс",
+                "videoUrl": "aqz-KE-bpKQ",
+                "thumbnail": "https:\/\/images.unsplash.com\/photo-1556761175-b413da4baf72?w=600&q=80",
+                "videoType": "youtube",
+                "description": "Чӣ тавр агентствои SMM 10 муштарӣ гирифт"
+            },
+            {
+                "title": "Instagram — Stories Ads",
+                "category": "Instagram",
+                "videoUrl": "L_LUpnjgPso",
+                "thumbnail": "https:\/\/images.unsplash.com\/photo-1432888622747-4ebee46af556?w=600&q=80",
+                "videoType": "youtube",
+                "description": "Рекламаи Stories бо ROI 400%"
+            }
+        ],
+        "title": "Натиҷаҳои",
+        "titleHighlight": "воқеӣ"
+    },
+    "instructors": {
+        "badge": "Муаллифон",
+        "items": [
+            {
+                "bio": "8 сол таҷриба дар маркетинги иҷтимоӣ. 50+ брендҳои калонро идора кардааст.",
+                "name": "Фарҳод Раҳимов",
+                "role": "SMM Director, Meta Certified",
+                "image": "https:\/\/ui-avatars.com\/api\/?name=Farhod+Rahimov&background=6366f1&color=fff&size=400",
+                "social": {
+                    "linkedin": "#",
+                    "instagram": "#"
+                }
+            },
+            {
+                "bio": "Мутахассиси контент бо 1M+ фолловер дар TikTok. Муаллифи 3 китоби маркетинг.",
+                "name": "Малика Саидова",
+                "role": "Content Strategist",
+                "image": "https:\/\/ui-avatars.com\/api\/?name=Malika+Saidova&background=a855f7&color=fff&size=400",
+                "social": {
+                    "linkedin": "#",
+                    "instagram": "#"
+                }
+            },
+            {
+                "bio": "Эксперти рекламаи ҳадафнок. $2M+ бюджети рекламаи идорашуда.",
+                "name": "Давлат Назаров",
+                "role": "Paid Ads Expert",
+                "image": "https:\/\/ui-avatars.com\/api\/?name=Davlat+Nazarov&background=f59e0b&color=fff&size=400",
+                "social": {
+                    "linkedin": "#",
+                    "instagram": "#"
+                }
+            }
+        ],
+        "title": "Омӯзгорони",
+        "titleHighlight": "таҷрибадор"
+    },
+    "testimonials": {
+        "badge": "Video Reviews",
+        "items": [
+            {
+                "name": "Зарина Алиева",
+                "image": "https:\/\/ui-avatars.com\/api\/?name=Zarina+Aliyeva&background=2563eb&color=fff&size=200",
+                "result": "+15K фолловер · $4,500\/моҳ",
+                "videoUrl": "ScMzIvxBSi4",
+                "thumbnail": "https:\/\/images.unsplash.com\/photo-1573496359142-b8d87734a5a2?w=600&q=80",
+                "videoType": "youtube"
+            },
+            {
+                "name": "Рустам Қурбонов",
+                "image": "https:\/\/ui-avatars.com\/api\/?name=Rustam+Qurbonov&background=1d4ed8&color=fff&size=200",
+                "result": "8 муштарӣ · Фрилансер",
+                "videoUrl": "jNQXAC9IVRw",
+                "thumbnail": "https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+                "videoType": "youtube"
+            },
+            {
+                "name": "Нигора Исмоилова",
+                "image": "https:\/\/ui-avatars.com\/api\/?name=Nigora+Ismoilova&background=3b82f6&color=fff&size=200",
+                "result": "0 → 15,000 фолловер",
+                "videoUrl": "M7lc1UVf-VE",
+                "thumbnail": "https:\/\/images.unsplash.com\/photo-1580489944761-15a19d654956?w=600&q=80",
+                "videoType": "youtube"
+            },
+            {
+                "name": "Алишер Юсупов",
+                "image": "https:\/\/ui-avatars.com\/api\/?name=Alisher+Yusupov&background=2563eb&color=fff&size=200",
+                "result": "Marketing Lead · ROI +400%",
+                "videoUrl": "aqz-KE-bpKQ",
+                "thumbnail": "https:\/\/images.unsplash.com\/photo-1472099645785-5658abf4ff4e?w=600&q=80",
+                "videoType": "youtube"
+            },
+            {
+                "name": "Мадина Расулова",
+                "image": "https:\/\/ui-avatars.com\/api\/?name=Madina+Rasulova&background=1d4ed8&color=fff&size=200",
+                "result": "SMM Agency · 10+ муштарӣ",
+                "videoUrl": "L_LUpnjgPso",
+                "thumbnail": "https:\/\/images.unsplash.com\/photo-1438761681033-6461ffad8d80?w=600&q=80",
+                "videoType": "youtube"
+            }
+        ],
+        "title": "Шогирдон",
+        "titleHighlight": "чӣ мегӯянд"
+    },
+    "whatYouLearn": {
+        "badge": "Чӣ меомӯзед",
+        "items": [
+            {
+                "icon": "FiVideo",
+                "title": "Reels & Short Video",
+                "description": "Сохтани Reels, TikTok ва контенти кӯтоҳи вирусӣ"
+            },
+            {
+                "icon": "FiBarChart2",
+                "title": "Аналитика & KPI",
+                "description": "Метрикаҳо, гузоришҳо ва баҳодиҳии ROI"
+            },
+            {
+                "icon": "FiPenTool",
+                "title": "Копирайтинг",
+                "description": "Матни ҷалбкунанда барои пост, Stories ва реклама"
+            },
+            {
+                "icon": "FiTarget",
+                "title": "Meta Ads",
+                "description": "Рекламаи ҳадафнок дар Instagram ва Facebook"
+            },
+            {
+                "icon": "FiHash",
+                "title": "Хештег & SEO",
+                "description": "Стратегияи хештег ва оптимизатсияи профил"
+            },
+            {
+                "icon": "FiZap",
+                "title": "Монетизатсия",
+                "description": "Даромад аз SMM: фриланс, агентство, бренд"
+            }
+        ],
+        "title": "6 малакаи",
+        "titleHighlight": "асосӣ",
+        "getTitle": "Чӣ мегиред",
+        "learnTitle": "Чӣ меомӯзед"
+    },
+    "whatYouGet": {
+        "items": [
+            {
+                "icon": "FiAward",
+                "title": "Сертификат",
+                "description": "Сертификати расмии SMM Specialist"
+            },
+            {
+                "icon": "FiLayers",
+                "title": "Портфолио",
+                "description": "3+ лоиҳаи воқеӣ барои CV ва клиентҳо"
+            },
+            {
+                "icon": "FiUsers",
+                "title": "Менторинг",
+                "description": "Дастгирии шахсӣ ва фидбек аз ментор"
+            },
+            {
+                "icon": "FiDollarSign",
+                "title": "Даромад",
+                "description": "Стратегия барои аввалин муштариён ва фриланс"
+            },
+            {
+                "icon": "FiBookOpen",
+                "title": "Материалҳо",
+                "description": "Дастрасӣ ба ҳамаи видео ва шаблонҳо"
+            },
+            {
+                "icon": "FiHeart",
+                "title": "Community",
+                "description": "Гурӯҳи Telegram ва шабакаи донишҷӯён"
+            }
+        ]
+    },
+    "learningPath": {
+        "badge": "Роҳи омӯзиш",
+        "title": "Твой путь",
+        "titleHighlight": "обучения",
+        "items": [
+            {
+                "step": "01",
+                "title": "Асосҳо ва стратегия",
+                "description": "Платформаҳо, аудитория, брендинг ва контент-план",
+                "image": "https:\/\/images.unsplash.com\/photo-1552664730-d307ca884978?w=600&q=80"
+            },
+            {
+                "step": "02",
+                "title": "Амалиёт ва лоиҳаҳо",
+                "description": "Reels, реклама, аналитика — ҳамааш дар амал",
+                "image": "https:\/\/images.unsplash.com\/photo-1460925895917-afdab827c52f?w=600&q=80"
+            },
+            {
+                "step": "03",
+                "title": "Касб ва даромад",
+                "description": "Портфолио, сертификат ва аввалин муштариён",
+                "image": "https:\/\/images.unsplash.com\/photo-1556761175-5973dc0f32e7?w=600&q=80"
+            }
+        ]
+    },
+    "courseProgram": {
+        "badge": "Барномаи курс",
+        "items": [
+            {
+                "title": "Асосҳои SMM",
+                "number": 1,
+                "topics": [
+                    "Аналитика",
+                    "Аудитория",
+                    "Брендинг"
+                ],
+                "duration": "1 ҳафта",
+                "description": "Платформаҳо, аудитория, психологияи корбар ва брендинг"
+            },
+            {
+                "title": "Instagram Marketing",
+                "number": 2,
+                "topics": [
+                    "Reels",
+                    "Stories",
+                    "Алгоритм"
+                ],
+                "duration": "2 ҳафта",
+                "description": "Reels, Stories, алгоритм ва рост кардани фолловер"
+            },
+            {
+                "title": "TikTok & Short Video",
+                "number": 3,
+                "topics": [
+                    "Трендҳо",
+                    "Hook",
+                    "Вирусӣ"
+                ],
+                "duration": "2 ҳафта",
+                "description": "Вирусӣ шудан, трендҳо ва контенти кӯтоҳ"
+            },
+            {
+                "title": "Facebook & Meta Ads",
+                "number": 4,
+                "topics": [
+                    "Ads Manager",
+                    "Pixel",
+                    "Ретаргетинг"
+                ],
+                "duration": "2 ҳафта",
+                "description": "Рекламаи ҳадафнок, Pixel ва ретаргетинг"
+            },
+            {
+                "title": "Контент-стратегия",
+                "number": 5,
+                "topics": [
+                    "Контент-план",
+                    "Canva",
+                    "Копирайтинг"
+                ],
+                "duration": "1 ҳафта",
+                "description": "Контент-план, визуал, копирайтинг ва Canva"
+            },
+            {
+                "title": "Аналитика & Лоиҳаи ниҳоӣ",
+                "number": 6,
+                "topics": [
+                    "KPI",
+                    "ROI",
+                    "Сертификат"
+                ],
+                "duration": "2 ҳафта",
+                "description": "KPI, ROI, портфолио ва лоиҳаи воқеӣ"
+            }
+        ],
+        "title": "6 модул —",
+        "progressLabel": "Пешравии барнома",
+        "titleHighlight": "программа курса"
+    },
+    "studentResults": {
+        "badge": "Натиҷаҳои шогирдон",
+        "items": [
+            {
+                "name": "Зарина Алиева",
+                "role": "SMM Manager",
+                "period": "3 моҳ",
+                "metrics": [
+                    {
+                        "after": 15400,
+                        "label": "Фолловер",
+                        "before": 320,
+                        "suffix": ""
+                    },
+                    {
+                        "after": 8,
+                        "label": "Engagement",
+                        "before": 1,
+                        "suffix": "%",
+                        "decimals": 1
+                    },
+                    {
+                        "after": 4500,
+                        "label": "Даромад",
+                        "before": 0,
+                        "prefix": "$"
+                    }
+                ],
+                "growthPercent": 4700
+            },
+            {
+                "name": "Рустам Қурбонов",
+                "role": "Фрилансер",
+                "period": "4 моҳ",
+                "metrics": [
+                    {
+                        "after": 8,
+                        "label": "Муштарӣ",
+                        "before": 0,
+                        "suffix": ""
+                    },
+                    {
+                        "after": 1200,
+                        "label": "Даромад\/моҳ",
+                        "before": 0,
+                        "prefix": "$"
+                    },
+                    {
+                        "after": 15,
+                        "label": "Лоиҳаҳо",
+                        "before": 0,
+                        "suffix": ""
+                    }
+                ],
+                "growthPercent": 850
+            },
+            {
+                "name": "Нигора Исмоилова",
+                "role": "Соҳибкори хурд",
+                "period": "4 моҳ",
+                "metrics": [
+                    {
+                        "after": 15000,
+                        "label": "Фолловер",
+                        "before": 200,
+                        "suffix": ""
+                    },
+                    {
+                        "after": 8500,
+                        "label": "Фурӯш",
+                        "before": 500,
+                        "prefix": "$"
+                    },
+                    {
+                        "after": 120000,
+                        "label": "Reach",
+                        "before": 800,
+                        "suffix": ""
+                    }
+                ],
+                "growthPercent": 7400
+            }
+        ],
+        "title": "Before \/ After",
+        "titleHighlight": "натиҷаҳо"
+    }
+}

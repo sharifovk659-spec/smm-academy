@@ -1,0 +1,15 @@
+node_modules
+.next
+out
+.env*.local
+*.tsbuildinfo
+public/uploads/*
+!public/uploads/.gitkeep
+
+# Local archives and extracted copies
+SMM-deploy.zip
+extracted/
+
+# PHP backend runtime (deploy separately if needed)
+backend/database/*.sqlite
+backend/database/*.db
