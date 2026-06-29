@@ -8,6 +8,7 @@ import { ForWhom } from "@/components/sections/ForWhom";
 import { CourseProgramSlider } from "@/components/sections/CourseProgramSlider";
 import { LearningPath } from "@/components/sections/LearningPath";
 import { StudentResults } from "@/components/sections/StudentResults";
+import { SuccessfulStudents } from "@/components/sections/SuccessfulStudents";
 import { Testimonials } from "@/components/sections/Testimonials";
 import { Pricing } from "@/components/sections/Pricing";
 import { FAQ } from "@/components/sections/FAQ";
@@ -22,6 +23,7 @@ type SectionKey =
   | "courseProgram"
   | "learningPath"
   | "studentResults"
+  | "successfulStudents"
   | "videoReviews"
   | "pricing"
   | "faq"
@@ -37,6 +39,7 @@ const SECTION_COMPONENTS: Record<SectionKey, ComponentType> = {
   courseProgram: CourseProgramSlider,
   learningPath: LearningPath,
   studentResults: StudentResults,
+  successfulStudents: SuccessfulStudents,
   videoReviews: Testimonials,
   pricing: Pricing,
   faq: FAQ,
@@ -51,6 +54,7 @@ const DEFAULT_ORDER: SectionKey[] = [
   "courseProgram",
   "learningPath",
   "studentResults",
+  "successfulStudents",
   "videoReviews",
   "pricing",
   "faq",
@@ -80,6 +84,7 @@ const HREF_SECTION: Record<string, SectionKey> = {
   "#course-program": "courseProgram",
   "#learning-path": "learningPath",
   "#student-results": "studentResults",
+  "#successful-students": "successfulStudents",
   "#video-reviews": "videoReviews",
   "#pricing": "pricing",
   "#faq": "faq",

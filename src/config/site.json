@@ -137,21 +137,25 @@
             "enabled": true,
             "order": 6
         },
-        "videoReviews": {
+        "successfulStudents": {
             "enabled": true,
             "order": 7
         },
-        "pricing": {
-            "enabled": true,
+        "videoReviews": {
+            "enabled": false,
             "order": 8
         },
-        "faq": {
+        "pricing": {
             "enabled": true,
             "order": 9
         },
-        "cta": {
+        "faq": {
             "enabled": true,
             "order": 10
+        },
+        "cta": {
+            "enabled": true,
+            "order": 11
         },
         "results": {
             "enabled": false,
@@ -415,8 +419,8 @@
             "label": "Натиҷаҳо"
         },
         {
-            "href": "#video-reviews",
-            "label": "Видео"
+            "href": "#successful-students",
+            "label": "Муваффақон"
         },
         {
             "href": "#pricing",
@@ -868,5 +872,60 @@
         ],
         "title": "Before \/ After",
         "titleHighlight": "натиҷаҳо"
+    },
+    "successfulStudents": {
+        "badge": "Муваффақият",
+        "title": "Шогирдони",
+        "titleHighlight": "муваффақ",
+        "items": [
+            {
+                "name": "Зарина Алиева",
+                "role": "SMM Manager",
+                "photo": "https:\/\/images.unsplash.com\/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+                "instagram": "https:\/\/instagram.com\/zarina.smm",
+                "instagramHandle": "@zarina.smm",
+                "achievement": "+15K фолловер · $4,500\/моҳ"
+            },
+            {
+                "name": "Рустам Қурбонов",
+                "role": "Фрилансер",
+                "photo": "https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+                "instagram": "https:\/\/instagram.com\/rustam.freelance",
+                "instagramHandle": "@rustam.freelance",
+                "achievement": "8 муштарӣ · даромади устувор"
+            },
+            {
+                "name": "Нигора Исмоилова",
+                "role": "Соҳибкори хурд",
+                "photo": "https:\/\/images.unsplash.com\/photo-1580489944761-15a19d654956?w=800&q=80",
+                "instagram": "https:\/\/instagram.com\/nigora.brand",
+                "instagramHandle": "@nigora.brand",
+                "achievement": "0 → 15,000 фолловер"
+            },
+            {
+                "name": "Алишер Юсупов",
+                "role": "Marketing Lead",
+                "photo": "https:\/\/images.unsplash.com\/photo-1472099645785-5658abf4ff4e?w=800&q=80",
+                "instagram": "https:\/\/instagram.com\/alisher.marketing",
+                "instagramHandle": "@alisher.marketing",
+                "achievement": "ROI +400% барои бренд"
+            },
+            {
+                "name": "Мадина Расулова",
+                "role": "SMM Agency Owner",
+                "photo": "https:\/\/images.unsplash.com\/photo-1438761681033-6461ffad8d80?w=800&q=80",
+                "instagram": "https:\/\/instagram.com\/madina.agency",
+                "instagramHandle": "@madina.agency",
+                "achievement": "10+ муштарӣ пас аз курс"
+            },
+            {
+                "name": "Сабина Каримова",
+                "role": "Content Creator",
+                "photo": "https:\/\/images.unsplash.com\/photo-1544005313-94ddf0286df2?w=800&q=80",
+                "instagram": "https:\/\/instagram.com\/sabina.creator",
+                "instagramHandle": "@sabina.creator",
+                "achievement": "Reels — 2M+ views"
+            }
+        ]
     }
 }
